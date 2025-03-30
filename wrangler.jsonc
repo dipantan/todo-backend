@@ -1,5 +1,6 @@
 {
-  "name": "worker-name",
+  "name": "todo-backend",
   "compatibility_date": "2025-03-30",
-  "main": "server.js"
+  "main": "server.js",
+  "compatibility_flags": ["nodejs_compat"]
 }
